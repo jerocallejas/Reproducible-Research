@@ -29,3 +29,5 @@ levels(ChickWeight$Diet)
 effect=lm(weight~Time+Diet, data=ChickWeight)
 effect
 ```
+
+As we can see from the results, the 3rd diet is the one that has the greatest impact on the chiks wheigth.
